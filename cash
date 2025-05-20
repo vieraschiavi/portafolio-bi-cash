@@ -1,0 +1,7 @@
+cd C:\Users\mviera\Downloads\Portafolio_Cash_GitHub_Completo
+git init
+git remote add origin https://github.com/vieraschiavi/portafolio-bi-cash.git
+git add .
+git commit -m "Primer commit del portafolio Cash"
+git branch -M main
+git push -u origin main
